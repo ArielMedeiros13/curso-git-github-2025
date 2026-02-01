@@ -1,0 +1,3 @@
+git init . -> cria repo git na pg atual 
+git status -> status do worktree
+git commit -m "mensagem" -> faz o commit
